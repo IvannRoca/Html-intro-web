@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-image: url(./Images/Blueberry.jpg);
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+
+}
+
+section{
+    background-color: rgb(44, 44, 92);
+    padding: 30px;
+    color: white;
+    width: 500px;
+    margin: 50px auto;
+    font-weight: bold;
+    border-radius: 10px;
+    
+
+}
+
+.card-icon{
+    
+}
+
+.card{
+    display: flex;
+    background-color: rgb(64, 64, 104);
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 12px;
+    align-items: center;
+    
+
+}
+
+.card-icon{
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+    border-radius: 6px;
+    background-color: antiquewhite;
+
+}
+.verde{background-color: rgb(176, 236, 216);}
+.morado{background-color: rgb(229, 210, 234);}
+.red{background-color: rgb(197, 109, 141);}
+
+

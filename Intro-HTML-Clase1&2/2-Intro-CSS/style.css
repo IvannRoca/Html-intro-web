@@ -1,0 +1,50 @@
+*{
+    margin: 1%;
+    padding: 0%;
+}
+
+body{
+    background-color: chartreuse;
+    color: black;
+}
+
+p{
+    text-decoration: none;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:xx-large;
+}
+
+p{
+    font-family: fantasy;
+}
+
+.btn{
+    background-color: aqua;
+    border: 2px solid green;
+    text-decoration: none;
+    padding: 20px, 40px;
+    border-radius: 10px;
+    display: inline-block;
+    color: fuchsia;
+}
+
+h1{
+        color: rgb(22, 19, 25);
+        font-family: "Pacifico", cursive;
+        font-weight: 400;
+        font-style: normal;
+        text-decoration: underline;
+      
+      
+}
+
+a{
+    background-color: aquamarine;
+    margin: 5px 10px 10px 10px;
+    padding: 10px 10px;
+    border: 5px solid;
+    
+}

@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content:space-around ;
+    align-content: flex-end;
+    gap:0;
+    
+   
+    
+
+    width: 600px;
+    height: 400px;
+    background-color: blueviolet;
+    margin: 100px auto;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.flex-item{
+    width: 60px;
+    height: 60px;
+    background-color: orange;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-size: 40px;
+}
